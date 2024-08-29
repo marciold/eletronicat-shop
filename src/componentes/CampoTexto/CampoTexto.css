@@ -1,0 +1,20 @@
+.item {
+  margin: 4px 0;
+  padding: 4px;
+  width: 100%;
+  height: 40%;
+  outline: none;
+  resize: none;
+  background: white;
+  text-shadow: none;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.inputs {
+  width: 50%;
+  margin-left: 10px;
+	padding: 5px;
+	border: none;
+	border-radius: 50px;
+}

@@ -1,0 +1,22 @@
+.post-btns {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: auto;
+  }
+  
+  .post-btns button {
+    margin-left: 10px;
+    width: 40%;
+    height: auto;
+    padding: 6px 6px;
+    border: 0;
+    cursor: pointer;
+    border-radius: 10px;
+    background: #3444338f;
+    color: #ffffff;
+    border-radius: 50px; 
+  }
+
+  .post-btns button:hover{
+    background: #344433;
+  }

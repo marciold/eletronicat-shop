@@ -1,0 +1,22 @@
+.card {
+  width: 150px;
+  background-color: #3444338f;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap:5px;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.card:hover{
+  transform: translateY(-0.6rem) translateX(0.6rem);
+}
+
+.cabecalho img {
+  width: 50%;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+  

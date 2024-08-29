@@ -1,0 +1,35 @@
+.header {
+  background-color: #DAD7CD;
+  position: fixed;
+  height: 100vh;
+  width: 20%;
+  top: 0;
+}
+
+.header-item {
+  list-style: none;
+  gap:15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  padding: 0;
+  margin-top: 20px;
+  margin-left: 4px;
+}
+
+.header-item img {
+  width: 60%;
+  height: auto;
+}
+
+.list-item {
+  width: 100%;
+  text-align: left;
+  color: black;
+}
+
+.name-shop{
+  text-align: center;
+  color: black;
+}
